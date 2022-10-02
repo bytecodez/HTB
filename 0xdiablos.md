@@ -7,9 +7,6 @@
 
 ---
 
-# Vuln Function
-![alt text](https://i.imgur.com/mKttOHO.png)
-
 
 # Flag Function
 ![alt text](https://i.imgur.com/1g7Pk9x.png)
