@@ -1,5 +1,3 @@
-# LOKTOK WRITE ^UP^
-
 ---
 
 ## Vulnerable Code @ TimeModel.php
